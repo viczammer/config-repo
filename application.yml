@@ -1,5 +1,5 @@
 my:
-  greeting: Hello from config server
+  greeting: Generic update from config server
   list:
     values: One,Two,Three
   db:
